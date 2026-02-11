@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de scripts desarrollados durante mis primeras etapas de aprendizaje en la carrera de **LSTI**. Representan mis ejercicios iniciales de lógica de programación y automatización de tareas básicas en entornos Linux.
 
-# 📋 Descripción de los Módulos
+#  Descripción de los Módulos
 
 # 1. Gestión de Parámetros y Lógica de Usuario (T16.sh)
 Un script enfocado en el manejo de argumentos desde la línea de comandos.
@@ -18,7 +18,7 @@ Ejercicios prácticos de interacción con el sistema operativo:
 * Bash 2: Manejo de variables y operaciones lógicas simples.
 * Bash 3: Interacción con el usuario mediante entradas por teclado (`read`) para personalizar la salida del script.
 
-# 🧠 Evolución Técnica
+#  Evolución Técnica
 Estos archivos sirven como base técnica para mis proyectos actuales. Demuestran el dominio de:
 * Sintaxis básica de **Shell Scripting**.
 * Manejo de variables de entorno y parámetros de posición.
